@@ -5,6 +5,7 @@
 data analysis methods for inspecting, filtering and analyzing data, encompassing the core aspects of data analysis, from simple data filtering 
 techniques to data visualization.**
 <br>
+<br>
 
 I have included here 12 csv files, which constitute the database that will be analyzed, as well as two versions for the project. The first version is 
 a Python script with the raw code, which therefore can only be executed using Python and having all the necessary libraries installed on your device. 
@@ -13,7 +14,7 @@ user-friendly environment better, which makes the code easier to read and intera
 <br>
 <br>
 
-## Database
+## About The Data
 **The data being analyzed here are taken from Kaggle.com, a popular website for finding and publishing datasets. You can easily access it by clicking [here](https://www.kaggle.com/datasets/knightbearr/sales-product-data).
 The dataset consists of real-world sales data representing a one-year worth of product sales of an electronics store, broken down and organized into 12 csv files, each file representing the sales record of a particular month.**
 <br>
