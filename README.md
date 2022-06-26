@@ -27,7 +27,7 @@ purchase address, etc., corresponding to the following coloumns:** <br>
  * **'Quantity Ordered'** - lists the total quantity ordered of a particular item. 
  * **'Price Each'** - lists the prices of the products ordered. 
  * **'Order Date'** - lists the dates and time at which a customer made an order.
- * **'Purchase Address'** - lists the addresses the orders were delivered to. 
+ * **'Purchase Address'** - lists the addresses the orders were delivered to.   
 <br>
 <br>
 
