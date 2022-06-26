@@ -52,7 +52,7 @@ should we display advertisements to maximize the likelihood of customer's purcha
 <br>
 <br>
 ***To view the project only, click on the following link:*** <br>
-[https://nbviewer.org/github/Mo-Khalifa96/Sales-Analysis-with-Python/blob/main/Sales%20Analysis%20%28Jupyter%20version%29.ipynb ](https://nbviewer.org/github/Mo-Khalifa96/Sales-Analysis-with-Python/blob/bd78f0f9b6c6758e570ea43998e61e77612351b9/Sales%20Analysis%20%28Jupyter%20version%29.ipynb)
+https://nbviewer.org/github/Mo-Khalifa96/Sales-Analysis-with-Python/blob/main/Sales%20Analysis%20%28Jupyter%20version%29.ipynb
 <br>
 <br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
