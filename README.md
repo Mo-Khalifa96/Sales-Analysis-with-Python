@@ -37,7 +37,7 @@ purchase address, etc., corresponding to the following coloumns:** <br>
 <img src="sales data screenshot.jpg" alt="https://github.com/Mo-Khalifa96/Sales-Analysis-with-Python/blob/main/sales%20data%20screenshot.jpg" width="800"/>
 
 <br>
-<br>
+<br> 
 
 ## Aim 
 **The aim of this project is to demonstrate the data analysis skills I've learned thus far and to apply them to real-world scenarios. As such, this 
