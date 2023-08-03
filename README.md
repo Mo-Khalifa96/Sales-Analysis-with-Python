@@ -21,13 +21,17 @@ The dataset consists of real-world sales data representing a one-year worth of p
 
 
 **The dataset is comprised of hundreds of thousands of electronics store purchases broken down by product type, prices, order date,
-purchase address, etc., corresponding to the following coloumns:** <br>
- * **'Order ID'** - lists the unique IDs that are used to track orders. 
- * **'Product'** - lists the names of the products.
- * **'Quantity Ordered'** - lists the total quantity ordered of a particular item. 
- * **'Price Each'** - lists the prices of the products ordered. 
- * **'Order Date'** - lists the dates and time at which a customer made an order.
- * **'Purchase Address'** - lists the addresses the orders were delivered to.   
+purchase address, etc., corresponding to the following columns:** <br>
+
+| **Column**             | **Description**                                                |
+| :----------------------| :--------------------------------------------------------------|
+| **Order ID**           | Unique IDs that are used to track orders.                      |
+| **Product**            | Names of the products.                                         |
+| **Quantity Ordered**   | Total quantity ordered of a particular item.                   |
+| **Price Each**         | Prices of the products ordered.                                |
+| **Order Date**         | Dates and time at which a customer made an order.              |
+| **Purchase Address**   | Addresses the orders were delivered to.                        |
+
 <br>
 <br>
 
@@ -41,13 +45,13 @@ purchase address, etc., corresponding to the following coloumns:** <br>
 
 ## Aim 
 **The aim of this project is to demonstrate the data analysis skills I've learned thus far and to apply them to real-world scenarios. As such, this 
-project asks and answers real-world questions about real-world sales data. For instance, "what was the best month for sales?", or, "which time of the day 
-should we display advertisements to maximize the likelihood of customer's purchasing products?"**
+project asks and answers real-world questions about real-world sales data. For instance, "What was the best month for sales?", or, "Which time of the day 
+should we display advertisements to maximize the likelihood of customers' purchasing products?"**
 <br>
 <br>
 
 ## Quick Access
-**You can quickly access the project from either of the links below. Both links will immediately direct you to the Jupyter notebook version with all the code and output rendered and ready for viewing. If you're unfamiliar with Jupyter, the notebook is basically organized into different sections which are comprised of different cells. Each cell includes a block of code as input and their corresponding results as output. Note however that the first link allows you to view the inputs and outputs but without interacting with the code. The second link on the other hand allows you to both view the notebook as well as interact with its code, which enables you to execute the code and reproduce the results yourself.**
+**You can quickly access the project from either of the links below. Both links will immediately direct you to the Jupyter Notebook version with all the code and output rendered and ready for viewing. If you're unfamiliar with Jupyter, the notebook is basically organized into different sections which are comprised of different cells. Each cell includes a block of code as input and their corresponding results as output. Note however that the first link allows you to view the inputs and outputs but without interacting with the code. The second link on the other hand allows you to both view the notebook as well as interact with its code, which enables you to execute the code and reproduce the results yourself.**
 <br>
 <br>
 <br>
